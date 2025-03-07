@@ -34,6 +34,8 @@ In addition to my academic research, I have a strong engineering background. I h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC</div><img src='images/CAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+</div>
+</div>
 [Multi-Encoder Feature Fusion Model for Complex Combustion State Recognition ](https://kns.cnki.net/kcms2/article/abstract?v=14CuGbpFC1CHuVBL7MZ6g2SzCiUXRhNqbj7Ghg8xNB2USq3sDsLpmUrEJgrsb6TLCNrJZ23uMZ64va5DXIqJ7KzdlnBpMNzQdFYZVlSCujf93dKcJ91k3CUcdFLz0EacirnvRovpUK-u-zDFPw_QjoLRaS9WvHe0HyMcNMuOcFdeUsmeliVNNOc2Y5yMFXH0PlkZjbzlsnY=&uniplatform=NZKPT&language=CHS)
 
 # 🎖 Honors and Awards
