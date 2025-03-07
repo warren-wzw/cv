@@ -39,8 +39,7 @@ In addition to my academic research, I have a strong engineering background. I h
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* First-Class Graduate Scholarship for Excellence.
 
 # 📖 Educations
 - *2022.06 - Present*,  Ph.D. in Control Science and Engineering, Zhejiang University of Technology
