@@ -16,15 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+My name is warren ,i graduated with a bachelor's degree from Zhejiang University of Science and Technology, and is currently a master's and Ph.D. candidate at Zhejiang University of Technology. My research focuses primarily on image processing and deep learning, particularly in the areas of multimodal data fusion, semantic segmentation, and object detection and recognition. I am dedicated to enhancing the performance of computer vision systems and their adaptability to various application scenarios through advanced deep learning methods and multimodal technologies.
 
-warren.......
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In addition to my academic research, I have a strong engineering background. I have worked on the deployment and development of embedded algorithms, gaining extensive practical experience and the ability to translate theoretical research into real-world applications. Throughout my graduate studies, I have combined academic exploration with industrial practice, aiming to advance the research and application of intelligent vision systems, particularly in areas such as intelligent perception and combustion state recognition.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 U-Net Semantic Segmentation-Based Calorific Value Estimation of Straw Multifuels for Combined Heat and Power Generation Processes - Accepted
+- *2024.09*: &nbsp;🎉🎉 Multi-Encoder Feature Fusion Model for Complex Combustion State Recognition - Accepted 
 
 # 📝 Publications 
 
@@ -46,12 +45,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - Present*,  Ph.D. in Control Science and Engineering, Zhejiang University of Technology
+- *2017.09 - 2021.08*, B.Sc. in Electrical Engineering and Automation, Zhejiang University of Science and Technology
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.05 - 2024.05*, [Sightcare](https://sightcare.com.cn/), China.
+- *2020.05 - 2020.09*, [Silan](https://www.silan.com.cn/en/), China.
