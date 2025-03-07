@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 My name is warren ,i graduated with a bachelor's degree from Zhejiang University of Science and Technology, and is currently a master's and Ph.D. candidate at Zhejiang University of Technology. My research focuses primarily on image processing and deep learning, particularly in the areas of multimodal data fusion, semantic segmentation, and object detection and recognition. I am dedicated to enhancing the performance of computer vision systems and their adaptability to various application scenarios through advanced deep learning methods and multimodal technologies.
+
 In addition to my academic research, I have a strong engineering background. I have worked on the deployment and development of embedded algorithms, gaining extensive practical experience and the ability to translate theoretical research into real-world applications. Throughout my graduate studies, I have combined academic exploration with industrial practice, aiming to advance the research and application of intelligent vision systems, particularly in areas such as intelligent perception and combustion state recognition.
 
 
