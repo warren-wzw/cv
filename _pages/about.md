@@ -16,11 +16,29 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello,Welcome to my homepage!
-My name is Zhiwei Wang ,i am a currently a master's and Ph.D. candidate at Zhejiang University of Technology. My research focuses primarily on image processing and deep learning, particularly in the areas of multimodal data fusion, semantic segmentation, and object detection and recognition. I am dedicated to enhancing the performance of computer vision systems and their adaptability to various application scenarios through advanced deep learning methods and multimodal technologies.
+Hello, welcome to my homepage!
 
-In addition to my academic research, I have a strong engineering background. I have worked on the deployment and development of embedded algorithms, gaining extensive practical experience and the ability to translate theoretical research into real-world applications. Throughout my graduate studies, I have combined academic exploration with industrial practice, aiming to advance the research and application of intelligent vision systems, particularly in areas such as intelligent perception and combustion state recognition.
+My name is Zhiwei Wang, and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on image processing and deep learning, particularly in the areas of multimodal data fusion (RGB images and visible light images), semantic segmentation, and more. I am dedicated to enhancing the performance of computer vision systems and their adaptability across various application scenarios through advanced deep learning methods and multimodal technologies.
 
+In addition to my academic pursuits, I have a strong background in engineering practice. I have interned at Silan  and Sightcare, where I gained expertise in hardware, driver development, and algorithm deployment acceleration. This experience has allowed me to accumulate extensive practical knowledge and the ability to translate theoretical research into real-world applications. Throughout my graduate studies, I have consistently combined academic exploration with industrial practice, striving to advance the research and application of intelligent vision systems. 
+
+In my daily work and studies, I frequently take notes and post them into  [CSDN](https://blog.csdn.net/warren103098?type=blog), demonstrating strong writing and coding habits.
+
+# 📖 Educations
+- *2022.06 - Present*,  Ph.D. in Control Science and Engineering, Zhejiang University of Technology
+- *2017.09 - 2021.08*, B.Sc. in Electrical Engineering and Automation, Zhejiang University of Science and Technology
+
+# 💻 Internships
+- *2022.05 - 2024.05*, [Sightcare](https://sightcare.com.cn/), China.
+1. Developed assistive vision products on HiSilicon platforms (Hi3516 DV300/DV500) and Rockchip platforms (RV1126, RK3566).
+2. Adapted new sensors (imx214, imx586) for image acquisition modules.
+3. Adapted new screens (MIPI, RGB, EDP) for display modules.
+4. Debugged and optimized the data acquisition and display pipeline for different platforms.
+
+- *2020.05 - 2020.09*, [Silan](https://www.silan.com.cn/en/), China.
+1. Designed schematic diagrams and layouts for demo boards based on chip manuals and performed soldering and debugging.
+2. Conducted high/low-temperature, lightning, and EMI testing.
+3. Analyzed test data and completed chip test reports.
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 U-Net Semantic Segmentation-Based Calorific Value Estimation of Straw Multifuels for Combined Heat and Power Generation Processes - Accepted
@@ -44,12 +62,3 @@ In addition to my academic research, I have a strong engineering background. I h
 
 # 🎖 Honors and Awards
 - *2023.10* First-Class Graduate Scholarship for Excellence.
-
-# 📖 Educations
-- *2022.06 - Present*,  Ph.D. in Control Science and Engineering, Zhejiang University of Technology
-- *2017.09 - 2021.08*, B.Sc. in Electrical Engineering and Automation, Zhejiang University of Science and Technology
-
-
-# 💻 Internships
-- *2022.05 - 2024.05*, [Sightcare](https://sightcare.com.cn/), China.
-- *2020.05 - 2020.09*, [Silan](https://www.silan.com.cn/en/), China.
