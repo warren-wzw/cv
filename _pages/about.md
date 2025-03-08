@@ -28,8 +28,7 @@ In my daily work and studies, I frequently take notes and post them into  [CSDN]
 - *2022.06 - Present*,  Ph.D. in Control Science and Engineering, Zhejiang University of Technology (Rank:38/210)  
 **Core Courses**:Matrix Theory/85、Modern Signal Processing/80、 Optimization、Embedded Artificial Intelligence/92、Digital Image Processing/89、Audio-Visual Multimedia Technology/93、Embedded Systems/83、Graph Theory and Networks/88、Computer Vision......
 
-- *2017.09 - 2021.08*, B.Sc. in Electrical Engineering and Automation, Zhejiang University of Science and Technology (Rank:15/56)  
-**Core Courses**：C++、C#、German, Mathematics and Physics, Linear Algebra, Operating Systems, Software Engineering, Data Structures and Algorithms, Digital Electronic Technology, Microcomputer Principles 、 Digital Image Processing......
+- *2017.09 - 2021.08*, B.Sc. in Electrical Engineering and Automation, Zhejiang University of Science and Technology (Rank:15/56)  **Core Courses**：C++、C#、German, Mathematics and Physics, Linear Algebra, Operating Systems, Software Engineering, Data Structures and Algorithms, Digital Electronic Technology, Microcomputer Principles 、 Digital Image Processing......
 
 # 💻 Internships
 - *2022.05 - 2024.05*, [Sightcare](https://sightcare.com.cn/), China.
