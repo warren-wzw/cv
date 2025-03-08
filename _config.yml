@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/warren-wzw
+  github           : "https://github.com/warren-wzw"
   google_plus      :
   keybase          :
   instagram        :
@@ -48,7 +48,7 @@ author:
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  CSDN             : "https://blog.csdn.net/warren103098?type=blog"
   steam            :
   tumblr           :
   twitter          : 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Csdn             : https://blog.csdn.net/warren103098?type=blog
+
 
 
 # Reading Files
