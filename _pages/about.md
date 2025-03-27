@@ -54,7 +54,7 @@ In my daily work and studies, I frequently take notes and post them into  [CSDN]
 
 [U-Net Semantic Segmentation-Based Calorific Value Estimation of Straw Multifuels for Combined Heat and Power Generation Processes ](https://www.mdpi.com/1996-1073/17/20/5143)
 
-project page: [StrawSegment](https://github.com/warren-wzw/StrawSegment.git)
+Project page: [StrawSegment](https://github.com/warren-wzw/StrawSegment.git)
 </div>
 </div>
 
@@ -63,7 +63,7 @@ project page: [StrawSegment](https://github.com/warren-wzw/StrawSegment.git)
 
 [Multi-Encoder Feature Fusion Model for Complex Combustion State Recognition ](https://kns.cnki.net/kcms2/article/abstract?v=14CuGbpFC1CHuVBL7MZ6g2SzCiUXRhNqbj7Ghg8xNB2USq3sDsLpmUrEJgrsb6TLCNrJZ23uMZ64va5DXIqJ7KzdlnBpMNzQdFYZVlSCujf93dKcJ91k3CUcdFLz0EacirnvRovpUK-u-zDFPw_QjoLRaS9WvHe0HyMcNMuOcFdeUsmeliVNNOc2Y5yMFXH0PlkZjbzlsnY=&uniplatform=NZKPT&language=CHS)
 
-project page: [FlameRego](https://github.com/warren-wzw/FlameRego.git)
+Project page: [FlameRego](https://github.com/warren-wzw/FlameRego.git)
 </div>
 </div>
 
