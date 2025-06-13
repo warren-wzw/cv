@@ -26,7 +26,7 @@ In my daily work and studies, I frequently take notes and post them into  [CSDN]
 
 # 📖 Educations
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-  <img src="images/zjut.png" alt="ZJUT Logo" style="width:100px; border-radius: 10px;">
+  <img src="images/zjut.jpg" alt="ZJUT Logo" style="width:100px; border-radius: 10px;">
   <div>
     <strong>2022.06 - Present</strong>, Ph.D. in Control Science and Engineering, Zhejiang University of Technology (Rank:38/210)  
     <br>
