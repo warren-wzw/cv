@@ -49,10 +49,12 @@ In my daily work and studies, I frequently take notes and post them into  [CSDN]
   <div>
     <strong>2022.05 - 2024.05</strong>, <a href="https://sightcare.com.cn/" target="_blank">Sightcare</a>, China.
     <ul>
+      <li>Conducted research and development of intelligent text analysis algorithms based on deep learning.
+      <li>Developed algorithms for reading order prediction and layout analysis for distorted and tilted pages.
+      <li>Optimized and deployed deep learning algorithms onto AI chips (HiSilicon, Rockchip, Bitmain) for lightweight acceleration.
       <li>Developed assistive vision products on HiSilicon platforms (Hi3516 DV300/DV500) and Rockchip platforms (RV1126, RK3566).</li>
       <li>Adapted new sensors (imx214, imx586) for image acquisition modules.</li>
       <li>Adapted new screens (MIPI, RGB, EDP) for display modules.</li>
-      <li>Debugged and optimized the data acquisition and display pipeline for different platforms.</li>
     </ul>
   </div>
 </div>
