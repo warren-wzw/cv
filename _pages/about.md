@@ -44,16 +44,30 @@ In my daily work and studies, I frequently take notes and post them into  [CSDN]
 </div>
 
 # 💻 Internships
-- *2022.05 - 2024.05*, [Sightcare](https://sightcare.com.cn/), China.
-1. Developed assistive vision products on HiSilicon platforms (Hi3516 DV300/DV500) and Rockchip platforms (RV1126, RK3566).
-2. Adapted new sensors (imx214, imx586) for image acquisition modules.
-3. Adapted new screens (MIPI, RGB, EDP) for display modules.
-4. Debugged and optimized the data acquisition and display pipeline for different platforms.
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
+  <img src="images/sightcare.jpg" alt="Sightcare Logo" style="width:100px; border-radius: 10px;">
+  <div>
+    <strong>2022.05 - 2024.05</strong>, <a href="https://sightcare.com.cn/" target="_blank">Sightcare</a>, China.
+    <ul>
+      <li>Developed assistive vision products on HiSilicon platforms (Hi3516 DV300/DV500) and Rockchip platforms (RV1126, RK3566).</li>
+      <li>Adapted new sensors (imx214, imx586) for image acquisition modules.</li>
+      <li>Adapted new screens (MIPI, RGB, EDP) for display modules.</li>
+      <li>Debugged and optimized the data acquisition and display pipeline for different platforms.</li>
+    </ul>
+  </div>
+</div>
 
-- *2020.05 - 2020.09*, [Silan](https://www.silan.com.cn/en/), China.
-1. Designed schematic diagrams and layouts for demo boards based on chip manuals and performed soldering and debugging.
-2. Conducted high/low-temperature, lightning, and EMI testing.
-3. Analyzed test data and completed chip test reports.
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <img src="images/silan.png" alt="Silan Logo" style="width:100px; border-radius: 10px;">
+  <div>
+    <strong>2020.05 - 2020.09</strong>, <a href="https://www.silan.com.cn/en/" target="_blank">Silan</a>, China.
+    <ul>
+      <li>Designed schematic diagrams and layouts for demo boards based on chip manuals and performed soldering and debugging.</li>
+      <li>Conducted high/low-temperature, lightning, and EMI testing.</li>
+      <li>Analyzed test data and completed chip test reports.</li>
+    </ul>
+  </div>
+</div>
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 U-Net Semantic Segmentation-Based Calorific Value Estimation of Straw Multifuels for Combined Heat and Power Generation Processes - Accepted
