@@ -25,13 +25,13 @@ In addition to my academic pursuits, I have a strong background in engineering p
 In my daily work and studies, I frequently take notes and post them into  [CSDN](https://blog.csdn.net/warren103098?type=blog), demonstrating strong writing and coding habits.
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC</div><img src='/assets/images/zjut.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC</div><img src='images/zjut.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 - *2022.06 - Present*,  Ph.D. in Control Science and Engineering, Zhejiang University of Technology (Rank:38/210)  
 **Core Courses**:Matrix Theory/85、Modern Signal Processing/80、 Optimization、Embedded Artificial Intelligence/92、Digital Image Processing/89、Audio-Visual Multimedia Technology/93、Embedded Systems/83、Graph Theory and Networks/88、Computer Vision......
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC</div><img src='/assets/images/zust.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC</div><img src='images/zust.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 - *2017.09 - 2021.08*, B.Sc. in Electrical Engineering and Automation, Zhejiang University of Science and Technology (Rank:15/56)  
 **Core Courses**：C++、C#、German, Mathematics and Physics, Linear Algebra, Operating Systems, Software Engineering, Data Structures and Algorithms, Digital Electronic Technology, Microcomputer Principles 、 Digital Image Processing......
 
