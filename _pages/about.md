@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello, welcome to my homepage!
 
-My name is Zhiwei Wang, and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on image processing and deep learning, particularly in the areas of multi-modality image fusion and perception and more. 
-
-In addition to my academic pursuits, I have a strong background in engineering practice. I have interned at Silan  and Sightcare, where I gained expertise in hardware, driver development, and algorithm deployment acceleration. This experience has allowed me to accumulate extensive practical knowledge and the ability to translate theoretical research into real-world applications. Throughout my graduate studies, I have consistently combined academic exploration with industrial practice, striving to advance the research and application of intelligent vision systems. 
+My name is Zhiwei Wang, and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on multi-modal image fusion and perception and more. 
 
 In my daily work and studies, I frequently take notes and post them into  [CSDN](https://blog.csdn.net/warren103098?type=blog), demonstrating strong writing and coding habits.
 
@@ -30,7 +28,7 @@ In my daily work and studies, I frequently take notes and post them into  [CSDN]
   <div>
     <strong>2022.06 - Present</strong>, Ph.D. in Control Science and Engineering, Zhejiang University of Technology (Rank:38/210)  
     <br>
-    <em>Core Courses</em>: Matrix Theory/85、Modern Signal Processing/80、Optimization、Embedded Artificial Intelligence/92、Digital Image Processing/89、Audio-Visual Multimedia Technology/93、Embedded Systems/83、Graph Theory and Networks/88、Computer Vision......
+    <em>Core Courses</em>: Matrix Theory、Modern Signal Processing、Optimization、Embedded Artificial Intelligence、Digital Image Processing、Audio-Visual Multimedia Technology、Embedded Systems、Graph Theory and Networks、Computer Vision......
   </div>
 </div>
 
