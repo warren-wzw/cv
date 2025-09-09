@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello, welcome to my homepage!
+👋 Hello, welcome to my homepage!
 
-My name is Zhiwei Wang, and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on multi-modal image fusion and perception and more. 
+My name is Warren (Wang Zhiwei), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on multi-modal image fusion and perception, as well as their efficient deployment on embedded systems for real-world applications.
 
-In my daily work and studies, I frequently take notes and post them into  [CSDN](https://blog.csdn.net/warren103098?type=blog), demonstrating strong writing and coding habits.
+📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog)
 
 # 📖 Educations
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
